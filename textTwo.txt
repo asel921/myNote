@@ -1,0 +1,2 @@
+The branch that appears in the local repository is actually tracking a branch in the remote repository(e.g origin/remote) in the local repository is called
+a tracking branch because it's tracking the progress of the master branch on the remote repository that has the shortname 'origin')
