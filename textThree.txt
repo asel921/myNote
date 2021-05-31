@@ -1,0 +1,6 @@
+Text Three
+
+In version control terminology if you "fork" a repository that means 
+you duplicate it. Typically you fork a repository that belong to someone
+else. So you make an identical copy of their repository and that 
+duplicate copy now belong to you.
