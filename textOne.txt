@@ -8,3 +8,7 @@ to refer to the locatin of the remote repository. A shortname is local
 to the 'current' repository (as in, you local repository). The word 'origin'
 is the defacto name that's used to refer to the amin remote repository.
 It's possible to rename this to something else, but typically it's left as 'origin'
+
+A pull request is a request to the original or source repository's maintainer to include changes in their
+project that you made in your fork of their project. You are requesting that they pull in changes you've made.
+
