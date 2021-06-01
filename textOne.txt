@@ -12,3 +12,6 @@ It's possible to rename this to something else, but typically it's left as 'orig
 A pull request is a request to the original or source repository's maintainer to include changes in their
 project that you made in your fork of their project. You are requesting that they pull in changes you've made.
 
+
+Update from windows OS
+
